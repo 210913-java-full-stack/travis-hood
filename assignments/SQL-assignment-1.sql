@@ -220,4 +220,3 @@ WHERE account_id LIKE 900004;
 UPDATE customers c 
 SET c.name = 'Amanda Lastname'
 WHERE c.name = 'Amanda Smith';
-Select* from accounts a 
